@@ -1,1 +1,0 @@
-# USG_NCB_5032_S_Conf_No_DSP_Template
