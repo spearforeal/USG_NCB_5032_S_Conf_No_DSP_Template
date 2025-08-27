@@ -1,10 +1,10 @@
 # Crestron SIMPL Files
 *.ASV
 *.arcv
-*.sig
+#*.sig
 *.hash
 *.smft
-*.lpz
+#*.lpz
 *.umc2
 *.um2
 *.sm2
@@ -14,8 +14,8 @@ SPlsWork
 # *.ush
 
 # Crestron VTPro Files
-*.vtp
-*.vtz
+#*.vtp
+#*.vtz
 *.c3prj
 # *.ced
 # *.sgd
